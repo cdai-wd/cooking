@@ -365,20 +365,6 @@ section {
 	text-align: left;
 }
 
-body #cdawrap {
-	background: none;
-	top: 50px;
-	border: none;
-}
-
-body #cdawrap a {
-	color: #fff !important;
-}
-
-body #cda-remove {
-	color: #fff;
-}
-
 @media screen and (max-width: 25em) {
 	.codrops-header {
 		font-size: 75%;
